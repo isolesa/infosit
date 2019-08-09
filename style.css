@@ -604,3 +604,6 @@ h4, #prijava tr td {
     font-size:14px;
     color:#FFFFFF;
 }
+#copyright a {
+    text-decoration: none;
+}

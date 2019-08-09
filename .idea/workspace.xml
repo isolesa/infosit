@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5502254f-0360-47a0-bf9e-416ce638fdf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brendovi.html" beforeDir="false" afterPath="$PROJECT_DIR$/brendovi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brendovi/acer.html" beforeDir="false" afterPath="$PROJECT_DIR$/brendovi/acer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brendovi/asus.html" beforeDir="false" afterPath="$PROJECT_DIR$/brendovi/asus.html" afterDir="false" />
@@ -27,7 +27,7 @@
       <change beforePath="$PROJECT_DIR$/oautoru.html" beforeDir="false" afterPath="$PROJECT_DIR$/oautoru.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prijava.html" beforeDir="false" afterPath="$PROJECT_DIR$/prijava.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/registracija.html" beforeDir="false" afterPath="$PROJECT_DIR$/registracija.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,24 @@
     <session id="-1727568583">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="24" />
+          <entry key="css" value="2" />
+          <entry key="html" value="95" />
           <entry key="txt" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="24" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="95" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -70,21 +74,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/samsung-galaxy-a5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/lg-spirit-h420.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -92,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/htc-desire-526g.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -101,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/asus-zenfone-3-ze55.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -110,8 +105,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brendovi/acer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+            <state relative-caret-position="411">
+              <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="607" column="26" selection-start-line="607" selection-start-column="26" selection-end-line="607" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -119,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brendovi/asus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -128,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brendovi/dell.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -137,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brendovi/htc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -146,17 +150,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brendovi/lg.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/brendovi/samsung.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+            <state relative-caret-position="157">
+              <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -167,10 +171,16 @@
     <findStrings>
       <find>03</find>
       <find>Igor Soleša</find>
+      <find>Id</find>
+      <find>twitter1</find>
+      <find>twitter1.png</find>
     </findStrings>
     <replaceStrings>
       <replace>01</replace>
       <replace>&lt;a href=&quot;https://github.com/isolesa&quot;&gt;Igor Soleša&lt;/a&gt;</replace>
+      <replace>id</replace>
+      <replace>github</replace>
+      <replace>github.png</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -190,20 +200,21 @@
         <option value="$PROJECT_DIR$/greska.html" />
         <option value="$PROJECT_DIR$/galerija.html" />
         <option value="$PROJECT_DIR$/brendovi.html" />
-        <option value="$PROJECT_DIR$/kategorije/mobilni-telefoni.html" />
         <option value="$PROJECT_DIR$/kategorije/racunari.html" />
-        <option value="$PROJECT_DIR$/kategorije/racunari/acer-aspire-es1.html" />
+        <option value="$PROJECT_DIR$/kategorije/mobilni-telefoni.html" />
         <option value="$PROJECT_DIR$/kategorije/racunari/dell-inspiron-17-5767.html" />
+        <option value="$PROJECT_DIR$/kategorije/racunari/acer-aspire-es1.html" />
         <option value="$PROJECT_DIR$/kategorije/mobilni-telefoni/samsung-galaxy-a5.html" />
         <option value="$PROJECT_DIR$/kategorije/mobilni-telefoni/lg-spirit-h420.html" />
         <option value="$PROJECT_DIR$/kategorije/mobilni-telefoni/htc-desire-526g.html" />
         <option value="$PROJECT_DIR$/kategorije/mobilni-telefoni/asus-zenfone-3-ze55.html" />
-        <option value="$PROJECT_DIR$/brendovi/acer.html" />
-        <option value="$PROJECT_DIR$/brendovi/asus.html" />
-        <option value="$PROJECT_DIR$/brendovi/dell.html" />
-        <option value="$PROJECT_DIR$/brendovi/htc.html" />
-        <option value="$PROJECT_DIR$/brendovi/lg.html" />
         <option value="$PROJECT_DIR$/brendovi/samsung.html" />
+        <option value="$PROJECT_DIR$/brendovi/lg.html" />
+        <option value="$PROJECT_DIR$/brendovi/htc.html" />
+        <option value="$PROJECT_DIR$/brendovi/dell.html" />
+        <option value="$PROJECT_DIR$/brendovi/asus.html" />
+        <option value="$PROJECT_DIR$/brendovi/acer.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -224,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,6 +268,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,25 +298,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564683182122</updated>
-      <workItem from="1564683185423" duration="787000" />
+      <workItem from="1564683185423" duration="1385000" />
+      <workItem from="1565376996194" duration="1587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="787000" />
+    <option name="totallyTimeSpent" value="2972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -313,10 +320,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,169 +353,176 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/registracija.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="176" column="75" selection-start-line="176" selection-start-column="75" selection-end-line="176" selection-end-column="75" />
+        <state relative-caret-position="89">
+          <caret line="155" column="24" lean-forward="true" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prijava.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="167" column="75" selection-start-line="167" selection-start-column="75" selection-end-line="167" selection-end-column="75" />
+        <state relative-caret-position="175">
+          <caret line="118" column="162" selection-start-line="118" selection-start-column="162" selection-end-line="118" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oautoru.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="173" column="75" selection-start-line="173" selection-start-column="75" selection-end-line="173" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="124" column="162" selection-start-line="124" selection-start-column="162" selection-end-line="124" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/najnovije.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="203" column="75" selection-start-line="203" selection-start-column="75" selection-end-line="203" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="154" column="162" selection-start-line="154" selection-start-column="162" selection-end-line="154" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="180" column="75" selection-start-line="180" selection-start-column="75" selection-end-line="180" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="131" column="162" selection-start-line="131" selection-start-column="162" selection-end-line="131" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kategorije.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="190" column="75" selection-start-line="190" selection-start-column="75" selection-end-line="190" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="141" column="162" selection-start-line="141" selection-start-column="162" selection-end-line="141" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="240" column="76" selection-start-line="240" selection-start-column="76" selection-end-line="240" selection-end-column="76" />
+        <state relative-caret-position="157">
+          <caret line="191" column="162" selection-start-line="191" selection-start-column="162" selection-end-line="191" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/greska.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="170" column="75" selection-start-line="170" selection-start-column="75" selection-end-line="170" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="121" column="162" selection-start-line="121" selection-start-column="162" selection-end-line="121" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/galerija.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="192" column="75" selection-start-line="192" selection-start-column="75" selection-end-line="192" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="143" column="162" selection-start-line="143" selection-start-column="162" selection-end-line="143" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/brendovi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="215" column="75" selection-start-line="215" selection-start-column="75" selection-end-line="215" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="217" column="70" selection-start-line="217" selection-start-column="70" selection-end-line="217" selection-end-column="70" />
+        <state relative-caret-position="157">
+          <caret line="166" column="162" selection-start-line="166" selection-start-column="162" selection-end-line="166" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kategorije/racunari.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="192" column="75" selection-start-line="192" selection-start-column="75" selection-end-line="192" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="143" column="162" selection-start-line="143" selection-start-column="162" selection-end-line="143" selection-end-column="162" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kategorije/racunari/acer-aspire-es1.html">
+    <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="168" column="162" selection-start-line="168" selection-start-column="162" selection-end-line="168" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kategorije/racunari/dell-inspiron-17-5767.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kategorije/racunari/acer-aspire-es1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/samsung-galaxy-a5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/lg-spirit-h420.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/htc-desire-526g.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kategorije/mobilni-telefoni/asus-zenfone-3-ze55.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="206" column="75" selection-start-line="206" selection-start-column="75" selection-end-line="206" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brendovi/acer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brendovi/asus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brendovi/dell.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brendovi/htc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/brendovi/lg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="157" column="162" selection-start-line="157" selection-start-column="162" selection-end-line="157" selection-end-column="162" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/brendovi/samsung.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+        <state relative-caret-position="157">
+          <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brendovi/lg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brendovi/htc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brendovi/dell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brendovi/asus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brendovi/acer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="132" column="162" selection-start-line="132" selection-start-column="162" selection-end-line="132" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="607" column="26" selection-start-line="607" selection-start-column="26" selection-end-line="607" selection-end-column="26" />
         </state>
       </provider>
     </entry>
